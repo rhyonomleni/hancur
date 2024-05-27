@@ -1,0 +1,3 @@
+Mikael Herry Kristianto - 71210687 => Membuat CSS untuk halaman event
+Ekananda - 71210723 => Membuat html kalender bulan maret dan april, juga membuat html halaman event
+Saimrey Rhyolito Nomleni - 71210804 => Membuat html kalender februari dan css untuk halaman kalender, juga sedikit mengubah html kalender bulan maret dan april
